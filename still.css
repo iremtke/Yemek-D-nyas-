@@ -1,0 +1,146 @@
+@charset "utf-8";
+/* CSS Document */
+
+.cerceve
+{
+	margin:auto;
+	width:1000px;
+	height:1600px;	
+}
+.banner
+{
+	float:left;
+	width:1000px;
+	height:150px;
+	background:#000000;
+}
+.img
+{
+	margin:5px auto;
+	width:163px;
+	height:167px;	
+}
+.linkler
+{
+	float:right;
+	width:150px;
+	height:33px;
+	margin:-70px 0 0 0;
+}
+.menu
+{
+	float:left;
+	width:930px;
+	height:80px;
+	margin:30px 35px 0 35px;
+}
+.menu ul
+{
+	margin:0;
+	padding:0;
+	list-style:none;	
+}
+.menu ul li
+{ float:left; }
+.menu ul li a
+{
+	display:block;
+	width:145px;
+	height:35px;
+	border:solid 1px #FFFFFF;
+	margin:0 8px 0 0;
+	text-decoration:none;
+	text-align:center;
+	padding:15px 0 0 0;
+	font:15px Tahoma, Geneva, sans-serif;
+	color:#FFF;	
+}
+.menu ul li a:hover
+{
+	border:solid 1px #000000;
+	color:#000000;	
+}
+.icerik
+{
+	float:left;
+	width:1000px;
+	height:500px;
+	margin:-15px 0 0 0;	
+}
+.fotolar
+{
+	float:left;
+	width:1000px;
+	height:450px;
+	margin:20px 0 0 0;	
+}
+.fotolar table td
+{
+	border:solid 1px #000;	
+}
+.fotolar table td:hover
+{
+	border:solid 1px #FFFFFF;	
+}
+.konusmasol
+{
+	float:left;
+	width:322px;
+	height:64px;
+	background:url(images/tel1.jpg);
+	background-size:cover;
+	border:solid 2px #000000;
+	margin:60px 150px 0 80px;
+	font:bold 15px "Comic Sans MS", cursive;
+	color:#000;
+	padding:100px 0 0 0;
+}
+.konusmasag
+{
+	float:left;
+	width:318px;
+	height:84px;
+	background:url(images/tel5.jpg);
+	background-size:cover;
+	border:solid 2px #000000;
+	margin:60px 80px 0 0;
+	font:bold 15px "Comic Sans MS", cursive;
+	color:#000;
+	padding:80px 0 0 0;
+}
+.footer
+{
+	float:left;
+	width:1000px;
+	height:150px;
+	text-align:center;
+	background:#000000;
+	margin:15px 0 0 0;
+	font:30px "Comic Sans MS", cursive;
+	color:#FF0000;		
+}
+.footer ul
+{
+	margin:0;
+	padding:0;
+	list-style:none;	
+}
+.footer ul li
+{ float:left;}
+.footer ul li a
+{
+	display:block;
+	width:145px;
+	height:35px;
+	margin:0 8px 0 0;
+	text-decoration:none;
+	text-align:center;
+	padding:15px 0 0 0;
+	margin:-15px 0 0 15px;
+	font:15px "Comic Sans MS", cursive;
+	color:#FFF;	
+}
+.kayitolrenk
+{ color:#FFF; }
+.iletisimrenk
+{ color:#FFF; }
